@@ -1,0 +1,7 @@
+D:\Devansh\C Sharp\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\Devansh\C Sharp\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Devansh\C Sharp\Operators\Operators\bin\Debug\Operators.exe.config
+D:\Devansh\C Sharp\Operators\Operators\bin\Debug\Operators.exe
+D:\Devansh\C Sharp\Operators\Operators\bin\Debug\Operators.pdb
+D:\Devansh\C Sharp\Operators\Operators\obj\Debug\Operators.exe
+D:\Devansh\C Sharp\Operators\Operators\obj\Debug\Operators.pdb
